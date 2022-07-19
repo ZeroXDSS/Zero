@@ -1,0 +1,13 @@
+_G.Settings = {
+    ["Selected_Weapons"] = "Melee",
+    ["Auto_Farm_Level"] = true,
+    ["Auto_Legendary_Sword"] = true,
+    ["Auto_Farm_Saber"] = true,
+    ["Auto_New_World"] = true,
+    ["Auto_Third_Sea"] = true,
+    ["Grab_All_Fruits_Hop"] = false,
+    ["Grab_All_Fruits_Hop_Level"] = 1500,
+    ["Auto_Store_All_Fruits"] = true,
+    ["Auto_Eat_List"] = {'Dark-Dark', 'Light-Light', 'Quake-Quake', 'Human-Human: Buddha', 'String-String', 'Bird-Bird: Phoenix', 'Rumble-Rumble', 'Paw-Paw', 'Gravity-Gravity', 'Dough-Dough', 'Shadow-Shadow', 'Venom-Venom', 'Control-Control', 'Soul-Soul', 'Dragon-Dragon'},
+    ["Auto_Eat_Fruits"] = true,
+}
